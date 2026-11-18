@@ -4,7 +4,7 @@
     <description>Extension QGIS développée pendant la formation</description>
     <about>Extension pédagogique atelier1.</about>
     <version>1.0.0</version>
-    <qgis_minimum_version>4.0</qgis_minimum_version>
+    <qgis_minimum_version>3.0</qgis_minimum_version>
     <qgis_maximum_version>4.99</qgis_maximum_version>
     <homepage>https://github.com/thomaswittmer/qgis-plugins</homepage>
     <file_name>atelier1.zip</file_name>
